@@ -16,9 +16,7 @@ st.write('Financial Inclusion remains one of the main obstacles to economic and 
 
 html_temp = """
     <div style ='background-color: wheat; padding:10px; border-radius:10px; border:10px; margin:10px'>
-    <h2> Streamlit ML Web App </h2><br>
-    <h4>Presented by</h4> <br>
-    <h2>Group 3</h2>
+    <h2> Streamlit ML Web App </h2>
     </div>
     """
 st.markdown(html_temp, unsafe_allow_html=True)
